@@ -1,2 +1,2 @@
 # alias-android
-Android-приложение для игры в Alias
+Android-приложение для игры в Alias ("Шляпа").
